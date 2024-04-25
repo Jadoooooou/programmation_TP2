@@ -28,10 +28,11 @@
 
       <img src="./images/circuit.png" id="imageCircuit" />
 
-      <button type="button" onClick="demarrerCourse()" id=" ">
+      <button type="button" onClick="demarrerCourse" id="startButton">
         Démarrer la Course
       </button>
-      <div id="decompte">10</div>
+      <input type="text" id="decompte" size="10" readonly />
     </div>
+    <script src="course.js"></script>
   </body>
 </html>
