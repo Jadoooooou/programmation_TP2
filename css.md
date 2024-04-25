@@ -21,7 +21,7 @@ h1 {
 }
 
 .course-container {
-  position: absolute;
+  position: relative;
   width: 900px;
   height: 400px;
   margin: 0 auto;
@@ -40,7 +40,7 @@ h1 {
 
 #voiture1 {
   position: absolute;
-  bottom: 250px;
+  bottom: 350px;
   left: 0px;
   width: 175px;
   height: 150px;
@@ -49,7 +49,7 @@ h1 {
 
 #voiture2 {
   position: absolute;
-  bottom: 135px;
+  bottom: 250px;
   left: -15px;
   width: 195px;
   height: 150px;
